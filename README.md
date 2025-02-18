@@ -42,7 +42,7 @@ XGBoost
 🛠 Tech Stack
 - Language: Python 🐍
 - Libraries & Frameworks:
--Data Processing: Pandas, NumPy
--Visualization: Matplotlib, Seaborn
--Modeling: Scikit-learn, XGBoost
--Evaluation: Statsmodels, Scipy
+- Data Processing: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Modeling: Scikit-learn, XGBoost
+- Evaluation: Statsmodels, Scipy
